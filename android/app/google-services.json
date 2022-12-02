@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "968331274025",
+    "project_id": "my-diary-8ec1e",
+    "storage_bucket": "my-diary-8ec1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968331274025:android:b60ff2029a894d748ab938",
+        "android_client_info": {
+          "package_name": "com.example.diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968331274025-paap5jma6aoe0v5lbahvgrko2fpnsjll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-PhPwIAJrYqbH6GfFsCVPMnDN6hDMNYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968331274025-paap5jma6aoe0v5lbahvgrko2fpnsjll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968331274025:android:bd155388c3d389658ab938",
+        "android_client_info": {
+          "package_name": "com.example.dogphy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968331274025-paap5jma6aoe0v5lbahvgrko2fpnsjll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-PhPwIAJrYqbH6GfFsCVPMnDN6hDMNYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968331274025-paap5jma6aoe0v5lbahvgrko2fpnsjll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
